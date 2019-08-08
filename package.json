@@ -1,0 +1,13 @@
+{
+  "name": "json-gql",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd --no-notify --respawn ."
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.40",
+    "typescript": "^3.5.2"
+  }
+}
